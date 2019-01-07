@@ -1,0 +1,1 @@
+posthtml-vscode-sorting-attrs
