@@ -1,7 +1,7 @@
 {
   "name": "posthtml-vscode-sorting-attrs-logic",
   "description": "It's sort HTML attribute based on the given order",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "author": "Raphaël Balet (ultrastark.ch)",
   "repository": {
     "type": "git",
