@@ -1,7 +1,7 @@
 {
   "name": "posthtml-vscode-sorting-attrs-logic",
   "description": "It's sort HTML attribute based on the given order",
-  "version": "1.0.4",
+  "version": "1.0.5",
   "author": "Raphaël Balet (ultrastark.ch)",
   "repository": {
     "type": "git",
@@ -17,9 +17,9 @@
     "sorter",
     "sort"
   ],
+  "dependencies": {},
   "devDependencies": {
     "mocha": "^5.2.0",
-    "posthtml-vscode-sorting-attrs": "^0.11.3",
     "xo": "^0.23.0"
   },
   "engines": {
@@ -67,6 +67,5 @@
     "url": "https://github.com/rbalet/posthtml-vscode-sorting-attrs/issues"
   },
   "homepage": "https://github.com/rbalet/posthtml-vscode-sorting-attrs#readme",
-  "main": "index.js",
-  "dependencies": {}
+  "main": "index.js"
 }
